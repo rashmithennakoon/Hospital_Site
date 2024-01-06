@@ -1,0 +1,120 @@
+#a3{
+    background-color: #00008B;
+}
+h1{
+    font-size: 80px;
+    left: 37%;
+    top: 0;
+    position: absolute;
+}
+.c1 {
+    width: 550px;
+    height: 240px;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+#cc1{
+    top: 30%;
+    left: 5%;
+    position: absolute;
+}
+.pp{
+    text-align: justify;
+    font-size: 18px;
+}
+#p1{
+    top: 32%;
+    left: 7%;
+    right: 60%;
+    position: absolute;
+}
+#cc2{
+    top: 60%;
+    right: 5%;
+    position: absolute;
+}
+#cc3{
+    top: 90%;
+    left: 5%;
+    position: absolute;
+}
+#cc4{
+    top: 120%;
+    right: 5%;
+    position: absolute;
+}
+#cc5{
+    top: 150%;
+    left: 5%;
+    position: absolute;
+}
+#cc6{
+    top: 180%;
+    right: 5%;
+    position: absolute;
+    background-color: #FF4500;
+}
+#p2{
+    top: 62%;
+    left: 60%;
+    right: 7%;
+    position: absolute;
+}
+#p3{
+    top: 92%;
+    left: 7%;
+    right: 60%;
+    position: absolute;
+}
+#p4{
+    top: 122%;
+    left: 60%;
+    right: 7%;
+    position: absolute;
+}
+#p5{
+    top: 152%;
+    left: 7%;
+    right: 60%;
+    position: absolute;
+}
+#p6{
+    top: 182%;
+    left: 60%;
+    right: 7%;
+    position: absolute;
+}
+#im1{
+    right: 10%;
+    position: absolute;
+}
+h2{
+    top: 220%;
+    left: 28%;
+    position: absolute;
+    font-size: 40px;
+}
+.c2 {
+    top: 240%;
+    left: 38%;
+    position: absolute;
+    width: 400px;
+    height: 650px;
+    background-color: #87CEFA;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+#uu{
+    top: 250%;
+    left: -2%;
+    position: absolute;
+    list-style-type: disc;
+    overflow: visible;
+}
+.ll {
+    float: inherit;
+    padding-bottom: 10px;
+}
+footer {
+    top:340%;
+    position: absolute;
+  }

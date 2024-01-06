@@ -1,0 +1,13 @@
+#a4{
+    background-color: #00008B;
+}
+h1{
+    top: 30%;
+    font-size: 50px;
+    left: 30%;
+    position: absolute;
+}
+footer {
+    top:90%;
+    position: absolute;
+  }

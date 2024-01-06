@@ -1,0 +1,41 @@
+#a1{
+    background-color: #00008B;
+}
+h1{
+    left: 38%;
+    position: absolute;
+    font-size: 60px;
+}
+#p1{
+    top: 30%;
+    position: absolute;
+    color: blue;
+}
+h2{
+    top: 55%;
+    left: 5%;
+    position: absolute;
+}
+.pp{
+    font-size: 20px;
+    left: 5%;
+    right: 50%;
+    position: absolute;
+    text-align: justify;
+}
+#p2{
+    top: 65%;
+    position: absolute;
+}
+#px{
+    color: blue;
+}
+footer {
+    top:210%;
+    position: absolute;
+  }
+  img{
+    top:40%;
+    right: 0;
+    position: absolute;
+  }

@@ -1,0 +1,32 @@
+#a2{
+    background-color: #00008B;
+}
+h1{
+    top:0;
+    left: 37%;
+    position: absolute;
+    font-size: 60px;
+}
+img{
+    top: 15%;
+    left:0;
+    position: absolute;
+}
+.pp{
+    top: 25%;
+    left: 45%;
+    right: 5%;
+    font-size: 20px;
+    text-align: justify;
+    position: absolute;
+    background: linear-gradient(to bottom left, #00cc00 0%, #ffff00 100%);
+    padding: 20px;
+}
+.pp:hover{
+    transform: scale(1.2);
+    background: linear-gradient(to left, #ff9999 0%, #ff99ff 100%);
+}
+footer {
+    top:165%;
+    position: absolute;
+  }

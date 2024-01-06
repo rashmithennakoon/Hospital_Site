@@ -1,0 +1,65 @@
+#a2{
+    background-color: #00008B;
+}
+h1{
+    top: 0;
+    left: 45%;
+    position: absolute;
+    font-size: 80px;
+}
+h2{
+    font-size: 40px;
+    font-weight: bolder;
+    left: 45%;
+    position: absolute;
+}
+.ppp{
+    left: 45%;
+    right: 5%;
+    font-size: 25px;
+    text-align: justify;
+    position: absolute;
+    padding: 10px;
+    background-color: #98FF98;
+}
+#hh1{
+    top: 20%;
+    position: absolute;
+}
+#hh2{
+    top: 60%;
+    position: absolute;
+}
+#p1{
+    top: 30%;
+    position: absolute;
+}
+#p2{
+    top: 70%;
+    position: absolute;
+}
+img{
+    left: 0;
+    position: absolute;
+}
+.ppp:hover {
+    transform: scale(1.1); /* Increase the size on hover */
+    background-color: #FFFFC2;
+}
+footer {
+    top:150%;
+    position: absolute;
+  }
+h3{
+    font-size: 40px;
+    top: 110%;
+    left: 60%;
+    position: absolute;
+}
+#a{
+    border-right: none;
+}
+h3:hover{
+    transform: scale(1.5); /* Increase the size on hover */
+    background-color: #FD1C03;
+}

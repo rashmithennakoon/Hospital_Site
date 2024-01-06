@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="Contact.css">
+    <link rel="stylesheet" href="navs.css">
+</head>
+<body>
+    <nav>
+        <ul>
+          <div class="nmm">
+          <li id="a1"><a href="index.html">Home</a></li>
+          <li id="a2"><a href="About.html">About</a></li>
+          </div>
+          <li class="dropdown" id="a3">
+            <div class="nmm2">
+            <a href="#" class="dropbtn">Our Services</a>
+            </div>
+            <div class="dropdown-content">
+              <a href="Chaneling.html">Chanelling Doctors</a>
+              <a href="Operations.html">Operations</a>
+              <a href="Blood.html">Blood Bank</a>
+            </div>
+          </li>
+          <div class="nmm1">
+          <li id="a4"><a href="Contact.html" style="color:white;">Contact Us</a></li>
+          </div>
+        </ul>
+    </nav>
+    <h1>Contact Us</h1>
+    <div class="div1">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.2984672220896!2d80.0007092!3d7.091359799999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2fbf324ef44bd%3A0xb0df78448dd51a2d!2sDistrict%20General%20Hospital%2C%20Gampaha!5e0!3m2!1sen!2slk!4v1704339211953!5m2!1sen!2slk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div id = 'cc1' class="c1">
+        <p><b>General Line:</b> 0114 444 333</p>
+        <p><b>Channeling Hotline:</b> 0113 333 444</p>
+        <p><b>Email:</b> wellnessguard@slt.lk</p>
+        <p><b>WellnessGuard Hospitals PLC,<br>
+            Colombo 2,<br>
+            Sri Lanka.</b></p>
+    </div><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class="divv"></div>
+    <form action='contactconnect.php' method="POST">
+        <label for="user" id="name1" class="lb">Name:</label>
+        <input type='text' name='name' id="name" class="bo" size="47" required/><br><br><br><br>
+        <label for="phone" id="phone1" class="lb">Mobile Number:</label>
+        <input type='text' name='phone' id="phone" class="bo" size="47" required/><br><br><br><br>
+        <label for="email" id="email1" class="lb">Email:</label>
+        <input type='email' name='email' id="email" class="bo" size="47" required/><br><br><br><br>
+        <label for="message" id="message1" class="lb">Message:</label>
+        <textarea class='bo' id="message" name="message" rows="4" cols="50"></textarea><br><br><br><br><br><br><br><br>
+
+        <input type='submit' name='submit' id='submit'>
+    </form>
+    <footer>
+        <p>&copy; 2024 WellnessGuard Hospital</p>
+    </footer>
+</body>
+</html>

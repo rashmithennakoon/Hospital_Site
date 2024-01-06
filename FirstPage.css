@@ -1,0 +1,62 @@
+#a1{
+    background-color: #00008B;
+}
+.image-container {
+    left: 0%;
+    position: absolute;
+    width: 100%;
+    max-width: 600px; /* Set the maximum width of the container */
+}
+
+.image-container img {
+    width: 1470px;
+    height: auto;
+    display: block;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 40%;
+    left: 140%;
+    transform: translate(-50%, -50%);
+    color: blue;
+    -webkit-text-stroke: 5px black;
+    text-align: center;
+    font-size: 80px;
+    font-family: Arial, sans-serif;
+    /* Add any additional styles as needed */
+}
+#hh{
+    top: 150%;
+    left: 20%;
+    position: absolute;
+    font-size: 60px;
+}
+#p1{
+    left: 5%;
+    right: 5%;
+   top: 170%;
+   position: absolute; 
+   text-align: justify;
+}
+#but{
+    font-size: 30px;
+    top: 195%;
+    left: 45%;
+    position: absolute;
+    background-color: #6AFB92;
+    display: inline-block;
+    border-radius: 20% ;
+    padding: 2px;
+}
+#but:hover {
+    transform: scale(1.2); /* Increase the size on hover */
+}
+footer {
+    top:210%;
+    position: absolute;
+  }
+#aa1{
+    border-right: none;
+    background-color: none;
+}

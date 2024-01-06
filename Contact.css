@@ -1,0 +1,59 @@
+#a4{
+    background-color: #00008B;
+}
+h1{
+    font-size: 80px;
+    left: 37%;
+    top: 0;
+    position: absolute;
+}
+.div1{
+    top: 25%;
+    right: 5%;
+    position: absolute;
+}
+.c1{
+    left: 15%;
+    top: 35%;
+    position: absolute;
+    width: 350px;
+    height: 220px;
+    padding: 25px;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+}
+.c1:hover {
+    transform: scale(1.5); /* Increase the size on hover */
+}
+.lb{
+    font-weight: bolder;
+    font-size: 20px;
+    left: 20%;
+    position: absolute;
+}
+.bo{
+    font-weight: bolder;
+    font-size: 20px;
+    left: 40%;
+    position: absolute;
+}
+footer {
+    top:180%;
+    position: absolute;
+  }
+#submit{
+    font-weight: bolder;
+    font-size: 20px;
+    left: 45%;
+    position: absolute;
+}
+.divv{
+    top: 105%;
+    left: 18%;
+    position: absolute;
+    width: 920px;
+    height: 460px;
+    background-color: #FF7722;
+    border-radius: 2%;
+}

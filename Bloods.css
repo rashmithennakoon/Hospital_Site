@@ -1,0 +1,35 @@
+#a3{
+    background-color: #00008B;
+}
+h1{
+    font-size: 80px;
+    left: 37%;
+    top: 0;
+    position: absolute;
+}
+.c1 {
+    left: 5%;
+    top: 25%;
+    position: absolute;
+    width: 650px;
+    height: 600px;
+    background-color: white;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+.pp{
+    text-align: justify;
+    left: 7%;
+    right: 54%;
+    top: 27%;
+    position: absolute;
+}
+img{
+    top: 30%;
+    left: 50%;
+    position: absolute;
+    width: 700px;
+}
+footer {
+    top:120%;
+    position: absolute;
+  }
